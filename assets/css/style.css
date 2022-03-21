@@ -1,0 +1,20 @@
+    body {
+        font-family: "Lobster", cursive;
+        font-family: "Cabin", sans-serif;
+        background-color: #333a40;
+        color: #373a3c;
+    }
+    
+    a.nav-link {
+        font-size: 16px;
+        color: #ffffff !important;
+        font-family: "Cabin", sans-serif;
+        font-weight: normal;
+    }
+    
+    .h3 {
+        font-size: 16px;
+        text-decoration: none;
+        margin-bottom: 30px;
+        font-weight: bold;
+    }
